@@ -2,6 +2,11 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21473553&assignment_repo_type=AssignmentRepo)
 # COMP 163 - Project 2: Character Abilities Showcase
 
+**Author:** Akhirah Henry  
+**Date:** 2025-11-10
+
+> AI usage: This README was generated (and later edited) with the help of an AI.
+
 ## 🎯 Project Overview
 
 Build a simple character system that demonstrates mastery of object-oriented programming fundamentals: inheritance, method overriding, polymorphism, and composition. This project focuses on core OOP concepts without the complexity of a full game system.
